@@ -1,0 +1,16 @@
+Emacs cheat sheet -*- mode: org -*-
+
+* Bookmarks C-x r m | C-x r b 
+C-x r m = set
+C-x r m name = set with name
+C-x r M name = don't override if exists
+C-x r b = jump to bookmark
+C-x r b name = jump to bookmark with name
+C-x r l = list all bookmarks
+M-x bookmarks-save = saves to .emacs.d/bookmarks file
+M-x bookmark-delete RET name RET
+
+* ORG mode
+** Text formatting
+- Strikethrough +TEXT+
+  
